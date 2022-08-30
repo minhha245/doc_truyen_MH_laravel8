@@ -1,0 +1,7 @@
+#search_ajax ul.dropdown-menu li {
+	padding: 4px 15px;
+}
+#search_ajax ul.dropdown-menu li a {
+	text-transform: uppercase;
+	color: #000;
+}
